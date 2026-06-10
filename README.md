@@ -1,5 +1,10 @@
 # 🎬 Movie Sentiment Analyzer
-
+![GitHub last commit](https://img.shields.io/github/last-commit/mohdali-dev/imdb-sentiment-analyzer)
+![GitHub stars](https://img.shields.io/github/stars/mohdali-dev/imdb-sentiment-analyzer?style=social)
+![Python Version](https://img.shields.io/badge/python-3.9%20%7C%203.10-blue)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohdali-dev/imdb-sentiment-analyzer/blob/main/notebooks/fine_tune_distilbert.ipynb)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97-Model-yellow)](https://huggingface.co/mohdali1/distilbert-imdb-sentiment)
+[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97-Space-blue)](https://huggingface.co/spaces/mohdali1/imdb-sentiment-demo)
 A production-ready sentiment analysis tool built by fine-tuning a **DistilBERT** transformer model on the **IMDb movie review dataset**. This project demonstrates the complete lifecycle of an ML model, from data preprocessing to a live, interactive web demo.
 
 ## 🌐 Live Demo
